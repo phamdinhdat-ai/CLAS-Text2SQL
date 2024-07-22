@@ -1,0 +1,6 @@
+Question|SQL Query
+Find the book titles authored by 'Mark P. O. Morford'.|SELECT book_title FROM books WHERE book_author = 'Mark P. O. Morford';
+Get the book title and author for books published by 'Oxford University Press'.|SELECT book_title, book_author FROM books WHERE publisher = 'Oxford University Press';
+List all book titles authored by 'E. J. W. Barber'.|SELECT book_title FROM books WHERE book_author = 'E. J. W. Barber';
+List the titles of books written by 'Scott Turow'.|SELECT book_title FROM books WHERE book_author = 'Scott Turow';
+Retrieve the title and publication year of all books authored by 'Amy Tan'|SELECT book_title, year_of_publication FROM books WHERE book_author = 'Amy Tan';

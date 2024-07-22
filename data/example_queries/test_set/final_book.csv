@@ -1,0 +1,9 @@
+ Question|SQL Query
+List all the books published in the year 1999.|SELECT * FROM books WHERE year_of_publication = 1999;
+Count the number of books published by 'HarperPerennial'.|SELECT COUNT(*) FROM books WHERE publisher = 'HarperPerennial';
+Retrieve the title and publication year of all books authored by 'Amy Tan'|SELECT book_title, year_of_publication FROM books WHERE book_author = 'Amy Tan';
+Find the book titles authored by 'Mark P. O. Morford'.|SELECT book_title FROM books WHERE book_author = 'Mark P. O. Morford';
+Retrieve the titles of books written by 'David Cordingly'.|SELECT book_author FROM books WHERE book_title = 'The Kitchen God''s Wife';
+List the titles of books written by 'Scott Turow'.|SELECT book_title FROM books WHERE book_author = 'Scott Turow';
+List all book titles authored by 'E. J. W. Barber'.|SELECT book_title FROM books WHERE book_author = 'E. J. W. Barber';
+Get the book title and author for books published by 'Oxford University Press'.|SELECT book_title, book_author FROM books WHERE publisher = 'Oxford University Press';

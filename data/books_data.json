@@ -1,0 +1,1602 @@
+[
+    {
+        "ID": 0,
+        "ISBN": "0195153448",
+        "Book-Title": "Classical Mythology",
+        "Book-Author": "Mark P. O. Morford",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Oxford University Press"
+    },
+    {
+        "ID": 1,
+        "ISBN": "0002005018",
+        "Book-Title": "Clara Callan",
+        "Book-Author": "Richard Bruce Wright",
+        "Year-Of-Publication": 2001,
+        "Publisher": "HarperFlamingo Canada"
+    },
+    {
+        "ID": 2,
+        "ISBN": "0060973129",
+        "Book-Title": "Decision in Normandy",
+        "Book-Author": "Carlo D'Este",
+        "Year-Of-Publication": 1991,
+        "Publisher": "HarperPerennial"
+    },
+    {
+        "ID": 3,
+        "ISBN": "0374157065",
+        "Book-Title": "Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It",
+        "Book-Author": "Gina Bari Kolata",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Farrar Straus Giroux"
+    },
+    {
+        "ID": 4,
+        "ISBN": "0393045218",
+        "Book-Title": "The Mummies of Urumchi",
+        "Book-Author": "E. J. W. Barber",
+        "Year-Of-Publication": 1999,
+        "Publisher": "W. W. Norton &amp; Company"
+    },
+    {
+        "ID": 5,
+        "ISBN": "0399135782",
+        "Book-Title": "The Kitchen God's Wife",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Putnam Pub Group"
+    },
+    {
+        "ID": 6,
+        "ISBN": "0425176428",
+        "Book-Title": "What If?: The World's Foremost Military Historians Imagine What Might Have Been",
+        "Book-Author": "Robert Cowley",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 7,
+        "ISBN": "0671870432",
+        "Book-Title": "PLEADING GUILTY",
+        "Book-Author": "Scott Turow",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Audioworks"
+    },
+    {
+        "ID": 8,
+        "ISBN": "0679425608",
+        "Book-Title": "Under the Black Flag: The Romance and the Reality of Life Among the Pirates",
+        "Book-Author": "David Cordingly",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Random House"
+    },
+    {
+        "ID": 9,
+        "ISBN": "074322678X",
+        "Book-Title": "Where You'll Find Me: And Other Stories",
+        "Book-Author": "Ann Beattie",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Scribner"
+    },
+    {
+        "ID": 10,
+        "ISBN": "0771074670",
+        "Book-Title": "Nights Below Station Street",
+        "Book-Author": "David Adams Richards",
+        "Year-Of-Publication": 1988,
+        "Publisher": "Emblem Editions"
+    },
+    {
+        "ID": 11,
+        "ISBN": "080652121X",
+        "Book-Title": "Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust",
+        "Book-Author": "Adam Lebor",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Citadel Press"
+    },
+    {
+        "ID": 12,
+        "ISBN": "0887841740",
+        "Book-Title": "The Middle Stories",
+        "Book-Author": "Sheila Heti",
+        "Year-Of-Publication": 2004,
+        "Publisher": "House of Anansi Press"
+    },
+    {
+        "ID": 13,
+        "ISBN": "1552041778",
+        "Book-Title": "Jane Doe",
+        "Book-Author": "R. J. Kaiser",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Mira Books"
+    },
+    {
+        "ID": 14,
+        "ISBN": "1558746218",
+        "Book-Title": "A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series)",
+        "Book-Author": "Jack Canfield",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Health Communications"
+    },
+    {
+        "ID": 15,
+        "ISBN": "1567407781",
+        "Book-Title": "The Witchfinder (Amos Walker Mystery Series)",
+        "Book-Author": "Loren D. Estleman",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Brilliance Audio - Trade"
+    },
+    {
+        "ID": 16,
+        "ISBN": "1575663937",
+        "Book-Title": "More Cunning Than Man: A Social History of Rats and Man",
+        "Book-Author": "Robert Hendrickson",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Kensington Publishing Corp."
+    },
+    {
+        "ID": 17,
+        "ISBN": "1881320189",
+        "Book-Title": "Goodbye to the Buttermilk Sky",
+        "Book-Author": "Julia Oliver",
+        "Year-Of-Publication": 1994,
+        "Publisher": "River City Pub"
+    },
+    {
+        "ID": 18,
+        "ISBN": "0440234743",
+        "Book-Title": "The Testament",
+        "Book-Author": "John Grisham",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Dell"
+    },
+    {
+        "ID": 19,
+        "ISBN": "0452264464",
+        "Book-Title": "Beloved (Plume Contemporary Fiction)",
+        "Book-Author": "Toni Morrison",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Plume"
+    },
+    {
+        "ID": 20,
+        "ISBN": "0609804618",
+        "Book-Title": "Our Dumb Century: The Onion Presents 100 Years of Headlines from America's Finest News Source",
+        "Book-Author": "The Onion",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Three Rivers Press"
+    },
+    {
+        "ID": 21,
+        "ISBN": "1841721522",
+        "Book-Title": "New Vegetarian: Bold and Beautiful Recipes for Every Occasion",
+        "Book-Author": "Celia Brooks Brown",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Ryland Peters &amp; Small Ltd"
+    },
+    {
+        "ID": 22,
+        "ISBN": "1879384493",
+        "Book-Title": "If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself",
+        "Book-Author": "J. R. Parrish",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Cypress House"
+    },
+    {
+        "ID": 23,
+        "ISBN": "0061076031",
+        "Book-Title": "Mary-Kate &amp; Ashley Switching Goals (Mary-Kate and Ashley Starring in)",
+        "Book-Author": "Mary-Kate &amp; Ashley Olsen",
+        "Year-Of-Publication": 2000,
+        "Publisher": "HarperEntertainment"
+    },
+    {
+        "ID": 24,
+        "ISBN": "0439095026",
+        "Book-Title": "Tell Me This Isn't Happening",
+        "Book-Author": "Robynn Clairday",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Scholastic"
+    },
+    {
+        "ID": 25,
+        "ISBN": "0689821166",
+        "Book-Title": "Flood : Mississippi 1927",
+        "Book-Author": "Kathleen Duey",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Aladdin"
+    },
+    {
+        "ID": 26,
+        "ISBN": "0971880107",
+        "Book-Title": "Wild Animus",
+        "Book-Author": "Rich Shapero",
+        "Year-Of-Publication": 2004,
+        "Publisher": "Too Far"
+    },
+    {
+        "ID": 27,
+        "ISBN": "0345402871",
+        "Book-Title": "Airframe",
+        "Book-Author": "Michael Crichton",
+        "Year-Of-Publication": 1997,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 28,
+        "ISBN": "0345417623",
+        "Book-Title": "Timeline",
+        "Book-Author": "MICHAEL CRICHTON",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 29,
+        "ISBN": "0684823802",
+        "Book-Title": "OUT OF THE SILENT PLANET",
+        "Book-Author": "C.S. Lewis",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Scribner"
+    },
+    {
+        "ID": 30,
+        "ISBN": "0375759778",
+        "Book-Title": "Prague : A Novel",
+        "Book-Author": "ARTHUR PHILLIPS",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Random House Trade Paperbacks"
+    },
+    {
+        "ID": 31,
+        "ISBN": "0425163091",
+        "Book-Title": "Chocolate Jesus",
+        "Book-Author": "Stephan Jaramillo",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 32,
+        "ISBN": "3404921038",
+        "Book-Title": "Wie Barney es sieht.",
+        "Book-Author": "Mordecai Richler",
+        "Year-Of-Publication": 2002,
+        "Publisher": "LÃ?Â¼bbe"
+    },
+    {
+        "ID": 33,
+        "ISBN": "3442353866",
+        "Book-Title": "Der Fluch der Kaiserin. Ein Richter- Di- Roman.",
+        "Book-Author": "Eleanor Cooney",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Goldmann"
+    },
+    {
+        "ID": 34,
+        "ISBN": "3442410665",
+        "Book-Title": "Sturmzeit. Roman.",
+        "Book-Author": "Charlotte Link",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Goldmann"
+    },
+    {
+        "ID": 35,
+        "ISBN": "3442446937",
+        "Book-Title": "Tage der Unschuld.",
+        "Book-Author": "Richard North Patterson",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Goldmann"
+    },
+    {
+        "ID": 36,
+        "ISBN": "0375406328",
+        "Book-Title": "Lying Awake",
+        "Book-Author": "Mark Salzman",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Alfred A. Knopf"
+    },
+    {
+        "ID": 37,
+        "ISBN": "0446310786",
+        "Book-Title": "To Kill a Mockingbird",
+        "Book-Author": "Harper Lee",
+        "Year-Of-Publication": 1988,
+        "Publisher": "Little Brown &amp; Company"
+    },
+    {
+        "ID": 38,
+        "ISBN": "0449005615",
+        "Book-Title": "Seabiscuit: An American Legend",
+        "Book-Author": "LAURA HILLENBRAND",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 39,
+        "ISBN": "0060168013",
+        "Book-Title": "Pigs in Heaven",
+        "Book-Author": "Barbara Kingsolver",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Harpercollins"
+    },
+    {
+        "ID": 40,
+        "ISBN": "038078243X",
+        "Book-Title": "Miss Zukas and the Raven's Dance",
+        "Book-Author": "Jo Dereske",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Avon"
+    },
+    {
+        "ID": 41,
+        "ISBN": "055321215X",
+        "Book-Title": "Pride and Prejudice",
+        "Book-Author": "Jane Austen",
+        "Year-Of-Publication": 1983,
+        "Publisher": "Bantam"
+    },
+    {
+        "ID": 42,
+        "ISBN": "067176537X",
+        "Book-Title": "The Therapeutic Touch: How to Use Your Hands to Help or to Heal",
+        "Book-Author": "Dolores Krieger",
+        "Year-Of-Publication": 1979,
+        "Publisher": "Fireside"
+    },
+    {
+        "ID": 43,
+        "ISBN": "0061099686",
+        "Book-Title": "Downtown",
+        "Book-Author": "Anne Rivers Siddons",
+        "Year-Of-Publication": 1995,
+        "Publisher": "HarperTorch"
+    },
+    {
+        "ID": 44,
+        "ISBN": "0553582909",
+        "Book-Title": "Icebound",
+        "Book-Author": "Dean R. Koontz",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Bantam Books"
+    },
+    {
+        "ID": 45,
+        "ISBN": "0671888587",
+        "Book-Title": "I'll Be Seeing You",
+        "Book-Author": "Mary Higgins Clark",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 46,
+        "ISBN": "0553582747",
+        "Book-Title": "From the Corner of His Eye",
+        "Book-Author": "Dean Koontz",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Bantam Books"
+    },
+    {
+        "ID": 47,
+        "ISBN": "0425182908",
+        "Book-Title": "Isle of Dogs",
+        "Book-Author": "Patricia Cornwell",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 48,
+        "ISBN": "042518630X",
+        "Book-Title": "Purity in Death",
+        "Book-Author": "J.D. Robb",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 49,
+        "ISBN": "0440223571",
+        "Book-Title": "This Year It Will Be Different: And Other Stories",
+        "Book-Author": "Maeve Binchy",
+        "Year-Of-Publication": 1997,
+        "Publisher": "Dell"
+    },
+    {
+        "ID": 50,
+        "ISBN": "0812523873",
+        "Book-Title": "Proxies",
+        "Book-Author": "Laura J. Mixon",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Tor Books"
+    },
+    {
+        "ID": 51,
+        "ISBN": "0842342702",
+        "Book-Title": "Left Behind: A Novel of the Earth's Last Days (Left Behind #1)",
+        "Book-Author": "Tim Lahaye",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Tyndale House Publishers"
+    },
+    {
+        "ID": 52,
+        "ISBN": "0440225701",
+        "Book-Title": "The Street Lawyer",
+        "Book-Author": "JOHN GRISHAM",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Dell"
+    },
+    {
+        "ID": 53,
+        "ISBN": "0060914068",
+        "Book-Title": "Love, Medicine and Miracles",
+        "Book-Author": "M.D. Bernie S. Siegel",
+        "Year-Of-Publication": 1988,
+        "Publisher": "HarperCollins Publishers"
+    },
+    {
+        "ID": 54,
+        "ISBN": "0156047624",
+        "Book-Title": "All the King's Men",
+        "Book-Author": "Robert Penn Warren",
+        "Year-Of-Publication": 1982,
+        "Publisher": "Harvest Books"
+    },
+    {
+        "ID": 55,
+        "ISBN": "0245542957",
+        "Book-Title": "Pacific Northwest",
+        "Book-Author": "Hans Johannes Hoefer",
+        "Year-Of-Publication": 1985,
+        "Publisher": "Chambers Harrap Publishers Ltd"
+    },
+    {
+        "ID": 56,
+        "ISBN": "0380715899",
+        "Book-Title": "A Soldier of the Great War",
+        "Book-Author": "Mark Helprin",
+        "Year-Of-Publication": 1992,
+        "Publisher": "Avon Books"
+    },
+    {
+        "ID": 57,
+        "ISBN": "0553280333",
+        "Book-Title": "Getting Well Again",
+        "Book-Author": "O. Carol Simonton Md",
+        "Year-Of-Publication": 1992,
+        "Publisher": "Bantam"
+    },
+    {
+        "ID": 58,
+        "ISBN": "0961769947",
+        "Book-Title": "Northwest Wines and Wineries",
+        "Book-Author": "Chuck Hill",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Speed Graphics"
+    },
+    {
+        "ID": 59,
+        "ISBN": "0964778319",
+        "Book-Title": "An Atmosphere of Eternity: Stories of India",
+        "Book-Author": "David Iglehart",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Sunflower Press"
+    },
+    {
+        "ID": 60,
+        "ISBN": "0671623249",
+        "Book-Title": "LONESOME DOVE",
+        "Book-Author": "Larry McMurtry",
+        "Year-Of-Publication": 1986,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 61,
+        "ISBN": "0679810307",
+        "Book-Title": "Shabanu: Daughter of the Wind (Border Trilogy)",
+        "Book-Author": "SUZANNE FISHER STAPLES",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Laurel Leaf"
+    },
+    {
+        "ID": 62,
+        "ISBN": "0679865691",
+        "Book-Title": "Haveli (Laurel Leaf Books)",
+        "Book-Author": "SUZANNE FISHER STAPLES",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Laurel Leaf"
+    },
+    {
+        "ID": 63,
+        "ISBN": "2070423204",
+        "Book-Title": "Lieux dits",
+        "Book-Author": "Michel Tournier",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Gallimard"
+    },
+    {
+        "ID": 64,
+        "ISBN": "0345260317",
+        "Book-Title": "The Dragons of Eden: Speculations on the Evolution of Human Intelligence",
+        "Book-Author": "Carl Sagan",
+        "Year-Of-Publication": 1978,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 65,
+        "ISBN": "0394743741",
+        "Book-Title": "The yawning heights",
+        "Book-Author": "Aleksandr Zinoviev",
+        "Year-Of-Publication": 1980,
+        "Publisher": "Random House"
+    },
+    {
+        "ID": 66,
+        "ISBN": "042511774X",
+        "Book-Title": "Breathing Lessons",
+        "Book-Author": "Anne Tyler",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 67,
+        "ISBN": "0804106304",
+        "Book-Title": "The Joy Luck Club",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Prentice Hall (K-12)"
+    },
+    {
+        "ID": 68,
+        "ISBN": "1853262404",
+        "Book-Title": "Heart of Darkness (Wordsworth Collection)",
+        "Book-Author": "Joseph Conrad",
+        "Year-Of-Publication": 1998,
+        "Publisher": "NTC/Contemporary Publishing Company"
+    },
+    {
+        "ID": 69,
+        "ISBN": "0312970242",
+        "Book-Title": "The Angel Is Near",
+        "Book-Author": "Deepak Chopra",
+        "Year-Of-Publication": 2000,
+        "Publisher": "St. Martin's Press"
+    },
+    {
+        "ID": 70,
+        "ISBN": "1853260053",
+        "Book-Title": "Tess of the D'Urbervilles (Wordsworth Classics)",
+        "Book-Author": "Thomas Hardy",
+        "Year-Of-Publication": 1997,
+        "Publisher": "NTC/Contemporary Publishing Company"
+    },
+    {
+        "ID": 71,
+        "ISBN": "1414035004",
+        "Book-Title": "The Adventures of Drew and Ellie: The Magical Dress",
+        "Book-Author": "Charles Noland",
+        "Year-Of-Publication": 2003,
+        "Publisher": "1stBooks Library"
+    },
+    {
+        "ID": 72,
+        "ISBN": "0060938412",
+        "Book-Title": "The Accidental Virgin",
+        "Book-Author": "Valerie Frankel",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Avon Trade"
+    },
+    {
+        "ID": 73,
+        "ISBN": "0140067477",
+        "Book-Title": "The Tao of Pooh",
+        "Book-Author": "Benjamin Hoff",
+        "Year-Of-Publication": 1983,
+        "Publisher": "Penguin Books"
+    },
+    {
+        "ID": 74,
+        "ISBN": "0345465083",
+        "Book-Title": "Seabiscuit",
+        "Book-Author": "LAURA HILLENBRAND",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 75,
+        "ISBN": "0451625889",
+        "Book-Title": "The Prince",
+        "Book-Author": "Niccolo Machiavelli",
+        "Year-Of-Publication": 1952,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 76,
+        "ISBN": "1558531025",
+        "Book-Title": "Life's Little Instruction Book (Life's Little Instruction Books (Paperback))",
+        "Book-Author": "H. Jackson Brown",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Thomas Nelson"
+    },
+    {
+        "ID": 77,
+        "ISBN": "0441783589",
+        "Book-Title": "Starship Troopers",
+        "Book-Author": "Robert A. Heinlein",
+        "Year-Of-Publication": 1987,
+        "Publisher": "Ace Books"
+    },
+    {
+        "ID": 78,
+        "ISBN": "0394895894",
+        "Book-Title": "The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)",
+        "Book-Author": "PHILIP PULLMAN",
+        "Year-Of-Publication": 1988,
+        "Publisher": "Laurel Leaf"
+    },
+    {
+        "ID": 79,
+        "ISBN": "1569871213",
+        "Book-Title": "Black Beauty (Illustrated Classics)",
+        "Book-Author": "Anna Sewell",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Landoll"
+    },
+    {
+        "ID": 80,
+        "ISBN": "0375410538",
+        "Book-Title": "Anil's Ghost",
+        "Book-Author": "MICHAEL ONDAATJE",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Knopf"
+    },
+    {
+        "ID": 81,
+        "ISBN": "0966986105",
+        "Book-Title": "Prescription for Terror",
+        "Book-Author": "Sandra Levy Ceren",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Andrew Scott Publishers"
+    },
+    {
+        "ID": 82,
+        "ISBN": "087113375X",
+        "Book-Title": "Modern Manners: An Etiquette Book for Rude People",
+        "Book-Author": "P.J. O'Rourke",
+        "Year-Of-Publication": 1990,
+        "Publisher": "Atlantic Monthly Press"
+    },
+    {
+        "ID": 83,
+        "ISBN": "0340767936",
+        "Book-Title": "Turning Thirty",
+        "Book-Author": "Mike Gayle",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Hodder &amp; Stoughton General Division"
+    },
+    {
+        "ID": 84,
+        "ISBN": "0743403843",
+        "Book-Title": "Decipher",
+        "Book-Author": "Stel Pavlou",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Simon &amp; Schuster (Trade Division)"
+    },
+    {
+        "ID": 85,
+        "ISBN": "0060930365",
+        "Book-Title": "My First Cousin Once Removed: Money, Madness, and the Family of Robert Lowell",
+        "Book-Author": "Sarah Payne Stuart",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Perennial"
+    },
+    {
+        "ID": 86,
+        "ISBN": "0060177586",
+        "Book-Title": "Standing Firm: A Vice-Presidential Memoir",
+        "Book-Author": "Dan Quayle",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Harpercollins"
+    },
+    {
+        "ID": 87,
+        "ISBN": "0071416331",
+        "Book-Title": "Team Bush : Leadership Lessons from the Bush White House",
+        "Book-Author": "Donald F. Kettl",
+        "Year-Of-Publication": 2003,
+        "Publisher": "McGraw-Hill"
+    },
+    {
+        "ID": 88,
+        "ISBN": "0375509038",
+        "Book-Title": "The Right Man : The Surprise Presidency of George W. Bush",
+        "Book-Author": "DAVID FRUM",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Random House"
+    },
+    {
+        "ID": 89,
+        "ISBN": "0553062042",
+        "Book-Title": "Daybreakers Louis Lamour Collection",
+        "Book-Author": "Louis Lamour",
+        "Year-Of-Publication": 1981,
+        "Publisher": "Bantam Doubleday Dell"
+    },
+    {
+        "ID": 90,
+        "ISBN": "0316769487",
+        "Book-Title": "The Catcher in the Rye",
+        "Book-Author": "J.D. Salinger",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Little, Brown"
+    },
+    {
+        "ID": 91,
+        "ISBN": "8445071408",
+        "Book-Title": "El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish))",
+        "Book-Author": "J. R. R. Tolkien",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Minotauro"
+    },
+    {
+        "ID": 92,
+        "ISBN": "8445071769",
+        "Book-Title": "El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback))",
+        "Book-Author": "J. R. R. Tolkien",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Minotauro"
+    },
+    {
+        "ID": 93,
+        "ISBN": "8445071777",
+        "Book-Title": "El Senor De Los Anillos: El Retorno Del Rey (Tolkien, J. R. R. Lord of the Rings. 3.)",
+        "Book-Author": "J. R. R. Tolkien",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Distribooks"
+    },
+    {
+        "ID": 94,
+        "ISBN": "0679429220",
+        "Book-Title": "Midnight in the Garden of Good and Evil: A Savannah Story",
+        "Book-Author": "John Berendt",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Random House"
+    },
+    {
+        "ID": 95,
+        "ISBN": "0671867156",
+        "Book-Title": "Pretend You Don't See Her",
+        "Book-Author": "Mary Higgins Clark",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 96,
+        "ISBN": "0312252617",
+        "Book-Title": "Fast Women",
+        "Book-Author": "Jennifer Crusie",
+        "Year-Of-Publication": 2001,
+        "Publisher": "St. Martin's Press"
+    },
+    {
+        "ID": 97,
+        "ISBN": "0312261594",
+        "Book-Title": "Female Intelligence",
+        "Book-Author": "Jane Heller",
+        "Year-Of-Publication": 2001,
+        "Publisher": "St. Martin's Press"
+    },
+    {
+        "ID": 98,
+        "ISBN": "0316748641",
+        "Book-Title": "Pasquale's Nose: Idle Days in an Italian Town",
+        "Book-Author": "Michael Rips",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Back Bay Books"
+    },
+    {
+        "ID": 99,
+        "ISBN": "0316973742",
+        "Book-Title": "The Gospel of Judas: A Novel",
+        "Book-Author": "Simon Mawer",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Back Bay Books"
+    },
+    {
+        "ID": 100,
+        "ISBN": "0385235941",
+        "Book-Title": "Prize Stories, 1987: The O'Henry Awards",
+        "Book-Author": "William Abrahams",
+        "Year-Of-Publication": 1987,
+        "Publisher": "Doubleday Books"
+    },
+    {
+        "ID": 101,
+        "ISBN": "0446677450",
+        "Book-Title": "Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money--That the Poor and Middle Class Do Not!",
+        "Book-Author": "Robert T. Kiyosaki",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 102,
+        "ISBN": "0451166892",
+        "Book-Title": "The Pillars of the Earth",
+        "Book-Author": "Ken Follett",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 103,
+        "ISBN": "0553347594",
+        "Book-Title": "McDonald's: Behind the Arches",
+        "Book-Author": "John F. Love",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Bantam"
+    },
+    {
+        "ID": 104,
+        "ISBN": "0671621009",
+        "Book-Title": "Creating Wealth : Retire in Ten Years Using Allen's Seven Principles of Wealth!",
+        "Book-Author": "Robert G. Allen",
+        "Year-Of-Publication": 1986,
+        "Publisher": "Fireside"
+    },
+    {
+        "ID": 105,
+        "ISBN": "067976397X",
+        "Book-Title": "Corelli's Mandolin : A Novel",
+        "Book-Author": "LOUIS DE BERNIERES",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Vintage"
+    },
+    {
+        "ID": 106,
+        "ISBN": "0684822733",
+        "Book-Title": "Love, Miracles, and Animal Healing : A heartwarming look at the spiritual bond between animals and humans",
+        "Book-Author": "Pam Proctor",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Fireside"
+    },
+    {
+        "ID": 107,
+        "ISBN": "0786868716",
+        "Book-Title": "The Five People You Meet in Heaven",
+        "Book-Author": "Mitch Albom",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Hyperion"
+    },
+    {
+        "ID": 108,
+        "ISBN": "8472238822",
+        "Book-Title": "Tu Nombre Escrito En El Agua (La Sonrisa Vertical)",
+        "Book-Author": "Irene Gonzalez Frei",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Tusquets"
+    },
+    {
+        "ID": 109,
+        "ISBN": "0671864769",
+        "Book-Title": "Relics (Star Trek: The Next Generation)",
+        "Book-Author": "Michael Jan Friedman",
+        "Year-Of-Publication": 1992,
+        "Publisher": "Star Trek"
+    },
+    {
+        "ID": 110,
+        "ISBN": "0671521519",
+        "Book-Title": "Bless The Beasts And Children : Bless The Beasts And Children",
+        "Book-Author": "Glendon Swarthout",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 111,
+        "ISBN": "0440222303",
+        "Book-Title": "The Touch of Your Shadow, the Whisper of Your Name (Babylon 5, Book 5)",
+        "Book-Author": "Neal Barrett Jr.",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Dell"
+    },
+    {
+        "ID": 112,
+        "ISBN": "0312953453",
+        "Book-Title": "Blood Oath",
+        "Book-Author": "David Morrell",
+        "Year-Of-Publication": 1994,
+        "Publisher": "St. Martin's Press"
+    },
+    {
+        "ID": 113,
+        "ISBN": "0446608653",
+        "Book-Title": "The Alibi",
+        "Book-Author": "Sandra Brown",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 114,
+        "ISBN": "0446612545",
+        "Book-Title": "The Beach House",
+        "Book-Author": "James Patterson",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 115,
+        "ISBN": "0446612618",
+        "Book-Title": "A Kiss Remembered",
+        "Book-Author": "Sandra Brown",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 116,
+        "ISBN": "0451208080",
+        "Book-Title": "The Short Forever",
+        "Book-Author": "Stuart Woods",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 117,
+        "ISBN": "0553584383",
+        "Book-Title": "Dead Aim",
+        "Book-Author": "IRIS JOHANSEN",
+        "Year-Of-Publication": 2004,
+        "Publisher": "Bantam Books"
+    },
+    {
+        "ID": 118,
+        "ISBN": "0671027360",
+        "Book-Title": "Angels &amp; Demons",
+        "Book-Author": "Dan Brown",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Pocket Star"
+    },
+    {
+        "ID": 119,
+        "ISBN": "0812575954",
+        "Book-Title": "The Deal",
+        "Book-Author": "Joe Hutsko",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Tor Books (Mm)"
+    },
+    {
+        "ID": 120,
+        "ISBN": "0316735736",
+        "Book-Title": "All He Ever Wanted: A Novel",
+        "Book-Author": "Anita Shreve",
+        "Year-Of-Publication": 2004,
+        "Publisher": "Back Bay Books"
+    },
+    {
+        "ID": 121,
+        "ISBN": "0743439740",
+        "Book-Title": "Every Breath You Take : A True Story of Obsession, Revenge, and Murder",
+        "Book-Author": "Ann Rule",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 122,
+        "ISBN": "0345372700",
+        "Book-Title": "If I Ever Get Back to Georgia, I'm Gonna Nail My Feet to the Ground",
+        "Book-Author": "LEWIS GRIZZARD",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Ballantine Books"
+    },
+    {
+        "ID": 123,
+        "ISBN": "0380619458",
+        "Book-Title": "The Mosquito Coast",
+        "Book-Author": "Paul Theroux",
+        "Year-Of-Publication": 1990,
+        "Publisher": "Harper Mass Market Paperbacks (Mm)"
+    },
+    {
+        "ID": 124,
+        "ISBN": "0446325805",
+        "Book-Title": "If Love Were Oil, I'd Be About a Quart Low",
+        "Book-Author": "Lewis Grizzard",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Warner Books (Mm)"
+    },
+    {
+        "ID": 125,
+        "ISBN": "0451406923",
+        "Book-Title": "Goodbye, My Little Ones: The True Story of a Murderous Mother and Five Innocent Victims",
+        "Book-Author": "Charles Hickey",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Onyx Books"
+    },
+    {
+        "ID": 126,
+        "ISBN": "0671042858",
+        "Book-Title": "The Girl Who Loved Tom Gordon",
+        "Book-Author": "Stephen King",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 127,
+        "ISBN": "0743249992",
+        "Book-Title": "Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions",
+        "Book-Author": "Ben Mezrich",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Free Press"
+    },
+    {
+        "ID": 128,
+        "ISBN": "0840734530",
+        "Book-Title": "The Oneprince (The Redaemian Chronicles, Book 1)",
+        "Book-Author": "Bill Hand",
+        "Year-Of-Publication": 1992,
+        "Publisher": "Thomas Nelson Inc"
+    },
+    {
+        "ID": 129,
+        "ISBN": "0425184226",
+        "Book-Title": "The Sum of All Fears",
+        "Book-Author": "Tom Clancy",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Berkley Publishing Group"
+    },
+    {
+        "ID": 130,
+        "ISBN": "0375500766",
+        "Book-Title": "Care Packages : Letters to Christopher Reeve from Strangers and Other Friends",
+        "Book-Author": "DANA REEVE",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Random House"
+    },
+    {
+        "ID": 131,
+        "ISBN": "9724119378",
+        "Book-Title": "O Deus Das Pequenas Coisas",
+        "Book-Author": "Roy",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Edicoes Asa"
+    },
+    {
+        "ID": 132,
+        "ISBN": "0451205197",
+        "Book-Title": "Lady in Green/Minor Indiscretions (Signet Regency Romance)",
+        "Book-Author": "Barbara Metzger",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 133,
+        "ISBN": "0060929790",
+        "Book-Title": "One Hundred Years of Solitude",
+        "Book-Author": "Gabriel Garcia Marquez",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Perennial"
+    },
+    {
+        "ID": 134,
+        "ISBN": "0060976845",
+        "Book-Title": "Little Altars Everywhere: A Novel",
+        "Book-Author": "Rebecca Wells",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Perennial"
+    },
+    {
+        "ID": 135,
+        "ISBN": "0061099325",
+        "Book-Title": "Coyote Waits (Joe Leaphorn/Jim Chee Novels)",
+        "Book-Author": "Tony Hillerman",
+        "Year-Of-Publication": 1992,
+        "Publisher": "HarperTorch"
+    },
+    {
+        "ID": 136,
+        "ISBN": "0671004573",
+        "Book-Title": "Before I Say Good-Bye",
+        "Book-Author": "Mary Higgins Clark",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 137,
+        "ISBN": "0446601640",
+        "Book-Title": "Slow Waltz in Cedar Bend",
+        "Book-Author": "Robert James Waller",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 138,
+        "ISBN": "0330484516",
+        "Book-Title": "Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title)",
+        "Book-Author": "Rachel Harris",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Pan Macmillan"
+    },
+    {
+        "ID": 139,
+        "ISBN": "038572179X",
+        "Book-Title": "Atonement : A Novel",
+        "Book-Author": "IAN MCEWAN",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Anchor"
+    },
+    {
+        "ID": 140,
+        "ISBN": "0393020371",
+        "Book-Title": "Next: The Future Just Happened",
+        "Book-Author": "Michael Lewis",
+        "Year-Of-Publication": 2001,
+        "Publisher": "W.W. Norton &amp; Company"
+    },
+    {
+        "ID": 141,
+        "ISBN": "1900850303",
+        "Book-Title": "The Angelic Darkness",
+        "Book-Author": "Richard Zimler",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Arcadia Books"
+    },
+    {
+        "ID": 142,
+        "ISBN": "1903019699",
+        "Book-Title": "The Soulbane Stratagem",
+        "Book-Author": "Norman Jetmundsen",
+        "Year-Of-Publication": 2000,
+        "Publisher": "John Hunt Publishing, Ltd."
+    },
+    {
+        "ID": 143,
+        "ISBN": "0345425294",
+        "Book-Title": "Gangster",
+        "Book-Author": "Lorenzo Carcaterra",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Fawcett Books"
+    },
+    {
+        "ID": 144,
+        "ISBN": "0451410319",
+        "Book-Title": "Hush",
+        "Book-Author": "Anne Frasier",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Onyx Books"
+    },
+    {
+        "ID": 145,
+        "ISBN": "0553583468",
+        "Book-Title": "Whisper of Evil (Hooper, Kay. Evil Trilogy.)",
+        "Book-Author": "Kay Hooper",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Bantam Books"
+    },
+    {
+        "ID": 146,
+        "ISBN": "8420639133",
+        "Book-Title": "Temor y Temblor",
+        "Book-Author": "Soren Kierkegaard",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Alianza"
+    },
+    {
+        "ID": 147,
+        "ISBN": "8476409419",
+        "Book-Title": "Estudios sobre el amor",
+        "Book-Author": "Jose Ortega Y Gaset",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Downtown Book Center"
+    },
+    {
+        "ID": 148,
+        "ISBN": "0380778556",
+        "Book-Title": "Rebecca",
+        "Book-Author": "Daphne Du Maurier",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Avon"
+    },
+    {
+        "ID": 149,
+        "ISBN": "0451525221",
+        "Book-Title": "Scarlet Letter",
+        "Book-Author": "Nathaniel Hawthorne",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 150,
+        "ISBN": "0002740230",
+        "Book-Title": "Keep It Simple: And Get More Out of Life",
+        "Book-Author": "Nick Page",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Trafalgar Square"
+    },
+    {
+        "ID": 151,
+        "ISBN": "0385336772",
+        "Book-Title": "Diary of a Mad Mom-To-Be",
+        "Book-Author": "Laura Wolf",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Delta"
+    },
+    {
+        "ID": 152,
+        "ISBN": "0440949424",
+        "Book-Title": "Locked in Time (Laurel Leaf Books)",
+        "Book-Author": "LOIS DUNCAN",
+        "Year-Of-Publication": 1986,
+        "Publisher": "Laure Leaf"
+    },
+    {
+        "ID": 153,
+        "ISBN": "0505524996",
+        "Book-Title": "Contact",
+        "Book-Author": "Susan Grant",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Love Spell"
+    },
+    {
+        "ID": 154,
+        "ISBN": "0140252800",
+        "Book-Title": "The Brimstone Wedding",
+        "Book-Author": "Barbara Vine",
+        "Year-Of-Publication": 1997,
+        "Publisher": "Penguin Books Ltd"
+    },
+    {
+        "ID": 155,
+        "ISBN": "0451452755",
+        "Book-Title": "The Catswold Portal",
+        "Book-Author": "Shirley Rousseau Murphy",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Roc"
+    },
+    {
+        "ID": 156,
+        "ISBN": "0812575482",
+        "Book-Title": "Through Wolf's Eyes (Wolf)",
+        "Book-Author": "Jane Lindskold",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Tor Fantasy"
+    },
+    {
+        "ID": 157,
+        "ISBN": "044651747X",
+        "Book-Title": "Puerto Vallarta Squeeze",
+        "Book-Author": "Robert James Waller",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 158,
+        "ISBN": "0060801263",
+        "Book-Title": "Tree Grows In Brooklyn",
+        "Book-Author": "Betty Smith",
+        "Year-Of-Publication": 1988,
+        "Publisher": "Harpercollins Publisher"
+    },
+    {
+        "ID": 159,
+        "ISBN": "0061030147",
+        "Book-Title": "Cybill Disobedience: How I Survived Beauty Pageants, Elvis, Sex, Bruce Willis, Lies, Marriage, Motherhood, Hollywood, and the Irrepressible Urge to Say What I Think",
+        "Book-Author": "Cybill Shepherd",
+        "Year-Of-Publication": 2001,
+        "Publisher": "Avon Books"
+    },
+    {
+        "ID": 160,
+        "ISBN": "0140250964",
+        "Book-Title": "Snow Angels",
+        "Book-Author": "Stewart O'Nan",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Penguin Books"
+    },
+    {
+        "ID": 161,
+        "ISBN": "0446527165",
+        "Book-Title": "Wish You Well",
+        "Book-Author": "David Baldacci",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Warner Books"
+    },
+    {
+        "ID": 162,
+        "ISBN": "0671461494",
+        "Book-Title": "The Hitchhiker's Guide to the Galaxy",
+        "Book-Author": "Douglas Adams",
+        "Year-Of-Publication": 1982,
+        "Publisher": "Pocket"
+    },
+    {
+        "ID": 163,
+        "ISBN": "0385337639",
+        "Book-Title": "Crow Lake (Today Show Book Club #7)",
+        "Book-Author": "Mary Lawson",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Delta"
+    },
+    {
+        "ID": 164,
+        "ISBN": "039575514X",
+        "Book-Title": "My Antonia",
+        "Book-Author": "Willa Cather",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Mariner Books"
+    },
+    {
+        "ID": 165,
+        "ISBN": "0451206673",
+        "Book-Title": "Pen Pals",
+        "Book-Author": "Olivia Goldsmith",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Signet Book"
+    },
+    {
+        "ID": 166,
+        "ISBN": "0330332775",
+        "Book-Title": "Bridget Jones's Diary",
+        "Book-Author": "Helen Fielding",
+        "Year-Of-Publication": 1997,
+        "Publisher": "Picador (UK)"
+    },
+    {
+        "ID": 167,
+        "ISBN": "0486284735",
+        "Book-Title": "Pride and Prejudice (Dover Thrift Editions)",
+        "Book-Author": "Jane Austen",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Dover Publications"
+    },
+    {
+        "ID": 168,
+        "ISBN": "0671021745",
+        "Book-Title": "EYE ON CRIME: HARDY BOYS #153",
+        "Book-Author": "Franklin W. Dixon",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Aladdin"
+    },
+    {
+        "ID": 169,
+        "ISBN": "0671047612",
+        "Book-Title": "Skin And Bones",
+        "Book-Author": "Franklin W. Dixon",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Aladdin"
+    },
+    {
+        "ID": 170,
+        "ISBN": "0671504282",
+        "Book-Title": "LAW OF THE JUNGLE (HARDY BOYS CASE FILE 105) : LAW OF THE JUNGLE (Hardy Boys, The)",
+        "Book-Author": "Franklin W. Dixon",
+        "Year-Of-Publication": 1995,
+        "Publisher": "Simon Pulse"
+    },
+    {
+        "ID": 171,
+        "ISBN": "0399138684",
+        "Book-Title": "The Cat Who Came to Breakfast (Cat Who... (Hardcover))",
+        "Book-Author": "Lilian Jackson Braun",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Putnam Pub Group"
+    },
+    {
+        "ID": 172,
+        "ISBN": "0785263292",
+        "Book-Title": "If Singleness Is a Gift, What's the Return Policy?",
+        "Book-Author": "Holly Virden",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Nelson Books"
+    },
+    {
+        "ID": 173,
+        "ISBN": "0830714014",
+        "Book-Title": "Always Daddy's Girl: Understanding Your Father's Impact on Who You Are",
+        "Book-Author": "H. Norman Wright",
+        "Year-Of-Publication": 1989,
+        "Publisher": "Regal Books"
+    },
+    {
+        "ID": 174,
+        "ISBN": "0345354931",
+        "Book-Title": "Night Mare (Xanth Novels (Paperback))",
+        "Book-Author": "Piers Anthony",
+        "Year-Of-Publication": 1990,
+        "Publisher": "Del Rey Books"
+    },
+    {
+        "ID": 175,
+        "ISBN": "0553278223",
+        "Book-Title": "The Martian Chronicles",
+        "Book-Author": "RAY BRADBURY",
+        "Year-Of-Publication": 1984,
+        "Publisher": "Spectra"
+    },
+    {
+        "ID": 176,
+        "ISBN": "3150000335",
+        "Book-Title": "Kabale Und Liebe",
+        "Book-Author": "Schiller",
+        "Year-Of-Publication": 0,
+        "Publisher": "Philipp Reclam, Jun Verlag GmbH"
+    },
+    {
+        "ID": 177,
+        "ISBN": "3257203659",
+        "Book-Title": "Der illustrierte Mann. ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Diogenes"
+    },
+    {
+        "ID": 178,
+        "ISBN": "3257207522",
+        "Book-Title": "Der KÃ?Â¶nig in Gelb.",
+        "Book-Author": "Raymond Chandler",
+        "Year-Of-Publication": 1980,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 179,
+        "ISBN": "3257208626",
+        "Book-Title": "Fahrenheit 451",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 1994,
+        "Publisher": "Distribooks Inc"
+    },
+    {
+        "ID": 180,
+        "ISBN": "3257208634",
+        "Book-Title": "Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 1981,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 181,
+        "ISBN": "3257208669",
+        "Book-Title": "Das BÃ?Â¶se kommt auf leisen Sohlen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Diogenes"
+    },
+    {
+        "ID": 182,
+        "ISBN": "3257210450",
+        "Book-Title": "LÃ?Â¶wenzahnwein. Roman.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 1999,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 183,
+        "ISBN": "3257212054",
+        "Book-Title": "Das Kind von morgen. ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 184,
+        "ISBN": "3257212429",
+        "Book-Title": "Die Mechanismen der Freude. ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 185,
+        "ISBN": "3257214154",
+        "Book-Title": "Familientreffen. ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 2000,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 186,
+        "ISBN": "3257216416",
+        "Book-Title": "Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.",
+        "Book-Author": "Ray Bradbury",
+        "Year-Of-Publication": 1988,
+        "Publisher": "Diogenes Verlag"
+    },
+    {
+        "ID": 187,
+        "ISBN": "3257233051",
+        "Book-Title": "Veronika Deschliesst Zu Sterben / Vernika Decides to Die",
+        "Book-Author": "Paolo Coelho",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Distribooks"
+    },
+    {
+        "ID": 188,
+        "ISBN": "342311360X",
+        "Book-Title": "Die Liebe in Den Zelten",
+        "Book-Author": "Gabriel Garcia Marquez",
+        "Year-Of-Publication": 0,
+        "Publisher": "Deutscher Taschenbuch Verlag (DTV)"
+    },
+    {
+        "ID": 189,
+        "ISBN": "3423116714",
+        "Book-Title": "Die Klone der Joanna May. Roman.",
+        "Book-Author": "Fay Weldon",
+        "Year-Of-Publication": 1993,
+        "Publisher": "Dtv"
+    },
+    {
+        "ID": 190,
+        "ISBN": "3423241489",
+        "Book-Title": "Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.",
+        "Book-Author": "Arabella Weir",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Dtv"
+    },
+    {
+        "ID": 191,
+        "ISBN": "3426605686",
+        "Book-Title": "Haifischfrauen.",
+        "Book-Author": "Kiana Davenport",
+        "Year-Of-Publication": 1996,
+        "Publisher": "Droemersche Verlagsanstalt Th. Knaur Nachf., GmbH &amp; Co."
+    },
+    {
+        "ID": 192,
+        "ISBN": "3453212150",
+        "Book-Title": "Die Cappuccino- Jahre. Aus dem Tagebuch des Adrian Mole.",
+        "Book-Author": "Sue Townsend",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Heyne"
+    },
+    {
+        "ID": 193,
+        "ISBN": "3462021095",
+        "Book-Title": "Schwarzer Tee mit drei StÃ¼ck Zucker",
+        "Book-Author": "Renan Demirkan",
+        "Year-Of-Publication": 1991,
+        "Publisher": "Kiepenheuer &amp; Witsch"
+    },
+    {
+        "ID": 194,
+        "ISBN": "3492045642",
+        "Book-Title": "QuerschÃ?Â¼sse - Downsize This!",
+        "Book-Author": "Michael Moore",
+        "Year-Of-Publication": 2003,
+        "Publisher": "Piper"
+    },
+    {
+        "ID": 195,
+        "ISBN": "3498020862",
+        "Book-Title": "Die Korrekturen.",
+        "Book-Author": "Jonathan Franzen",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Rowohlt, Reinbek"
+    },
+    {
+        "ID": 196,
+        "ISBN": "3499110695",
+        "Book-Title": "Neun ErzÃ?Â¤hlungen.",
+        "Book-Author": "Jerome D. Salinger",
+        "Year-Of-Publication": 1968,
+        "Publisher": "Rowohlt Tb."
+    },
+    {
+        "ID": 197,
+        "ISBN": "3499151502",
+        "Book-Title": "Hebt den Dachbalken hoch, Zimmerleute / Seymour wird vorgestellt.",
+        "Book-Author": "Jerome D. Salinger",
+        "Year-Of-Publication": 1998,
+        "Publisher": "Rowohlt Tb."
+    },
+    {
+        "ID": 198,
+        "ISBN": "3518111000",
+        "Book-Title": "Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge, 100).",
+        "Book-Author": "James Joyce",
+        "Year-Of-Publication": 1981,
+        "Publisher": "Suhrkamp"
+    },
+    {
+        "ID": 199,
+        "ISBN": "3548254268",
+        "Book-Title": "Eine ganz normale AffÃ?Â¤re.",
+        "Book-Author": "Joanna Trollope",
+        "Year-Of-Publication": 2002,
+        "Publisher": "Ullstein Tb"
+    }
+]

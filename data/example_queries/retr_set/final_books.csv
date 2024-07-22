@@ -1,0 +1,4 @@
+ Question|SQL Query
+List all the books published in the year 1999.|SELECT * FROM books WHERE year_of_publication = 1999;
+Get the book title and author for books published by 'Oxford University Press'.|SELECT book_title, book_author FROM books WHERE publisher = 'Oxford University Press';
+Find the book titles authored by 'Mark P. O. Morford'.|SELECT book_title FROM books WHERE book_author = 'Mark P. O. Morford';
